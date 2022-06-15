@@ -13,7 +13,7 @@ import com.discord.widgets.chat.list.entries.ChatListEntry
 import com.discord.widgets.chat.list.entries.MessageEntry
 
 // Annotation du plugin Aliucord. Doit être présent sur la classe principale de votre plugin
-@AliucordPlugin(requiresRestart = false /* Whether your plugin requires a restart after being installed/updated */)
+@AliucordPlugin(requiresRestart = false /* Si votre plugin nécessite un redémarrage après avoir été installé/mis à jour */)
 // Classe de plugin. Doit étendre Plugin et override start et stop
 // En savoir plus: https://github.com/Aliucord/documentation/blob/main/plugin-dev/1_introduction.md#basic-plugin-structure
 class MyFirstPatch : Plugin() {
