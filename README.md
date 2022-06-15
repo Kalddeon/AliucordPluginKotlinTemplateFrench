@@ -12,8 +12,8 @@ Ce modèle comprend un exemple de plugin démontrant des correctifs que vous pou
 1. Ouvrez la racine build.gradle.kts, lisez les commentaires et remplacez tous les placeholders
 2. Familiarisez-vous avec la structure du projet. La plupart des fichiers sont commentés
 3. Construisez ou déployez votre premier plugin en utilisant :
-   - Windows: `.\gradlew.bat MyFirstCommand:make` or `.\gradlew.bat MyFirstCommand:deployWithAdb`
-   - Linux & Mac: `./gradlew MyFirstCommand:make` or `./gradlew MyFirstCommand:deployWithAdb`
+   - Windows: `.\gradlew.bat MyFirstCommand:make` ou `.\gradlew.bat MyFirstCommand:deployWithAdb`
+   - Linux & Mac: `./gradlew MyFirstCommand:make` ou `./gradlew MyFirstCommand:deployWithAdb`
 
 ## License
 
